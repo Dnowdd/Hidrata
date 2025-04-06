@@ -10,8 +10,10 @@
 
 ## 📸 Screenshots
 
-<img src="https://github.com/Dnowdd/Hidrata/blob/main/repository/screenshot_1.png" />
-<img src="https://github.com/Dnowdd/Hidrata/blob/main/repository/screenshot_2.png" />
+<div class="flex">
+  <img src="https://github.com/Dnowdd/Hidrata/blob/main/repository/screenshot_1.png" width="200px" />
+  <img src="https://github.com/Dnowdd/Hidrata/blob/main/repository/screenshot_2.png" width="200px" />
+</div>
 
 <br /><br /><br />
 
