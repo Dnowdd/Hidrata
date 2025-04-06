@@ -26,7 +26,7 @@
 
 ## 📄 License
 
-**Dnowdd.com** is distributed under the _Apache License 2.0_, allowing for open collaboration and modification.
+**Hidrata+** is distributed under the _Apache License 2.0_, allowing for open collaboration and modification.
 
 <br /><br /><br />
 
