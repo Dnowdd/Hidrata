@@ -4,7 +4,7 @@
 
 </div>
 
-**Dnowdd.com** is my personal and professional portfolio, showcasing my expertise, key projects, certifications, and ways to get in touch. Here, you can learn more about my background, explore the solutions I have developed, and see how my skills can add value to your projects.
+**Hidrata+** is a mobile application designed to help users track their daily water intake and stay hydrated. Built with Flutter, it supports both Android and iOS platforms. 
 
 <br /><br /><br />
 
